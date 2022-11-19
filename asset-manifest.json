@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tutedude-refer-and-earn/static/css/main.a1adf7d1.css",
+    "main.js": "/tutedude-refer-and-earn/static/js/main.5dca70e7.js",
+    "index.html": "/tutedude-refer-and-earn/index.html",
+    "main.a1adf7d1.css.map": "/tutedude-refer-and-earn/static/css/main.a1adf7d1.css.map",
+    "main.5dca70e7.js.map": "/tutedude-refer-and-earn/static/js/main.5dca70e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1adf7d1.css",
+    "static/js/main.5dca70e7.js"
+  ]
+}
